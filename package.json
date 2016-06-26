@@ -1,0 +1,24 @@
+{
+    "author": "jcerruti@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "\u5929\u5355\u8bcd",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "521edd7c-4396-4651-866c-dcb3442f37b3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
